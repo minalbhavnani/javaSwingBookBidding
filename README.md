@@ -1,0 +1,2 @@
+# javaSwingBookBidding
+An application that has a network of readers who have their virtual bookshelf. Readers can suggest/review/rate different books to read. This network of users is seen by publishers to advertise new books. Different publishers bid to get their advertisement displayed on users page. The list of available books on the app is also given to school and public libraries, through which the library can ask for a book to be donated to them. 
